@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "astroids", "astroids\astroids.vcxproj", "{DFA0BE5A-1732-4258-89D0-6D380FC92AFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA0BE5A-1732-4258-89D0-6D380FC92AFA}.Debug|x86.ActiveCfg = Debug|x64
+		{DFA0BE5A-1732-4258-89D0-6D380FC92AFA}.Debug|x86.Build.0 = Debug|x64
+		{DFA0BE5A-1732-4258-89D0-6D380FC92AFA}.Release|x86.ActiveCfg = Release|Win32
+		{DFA0BE5A-1732-4258-89D0-6D380FC92AFA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29439874-97D7-4C4A-9913-B6FD904E64C4}
+	EndGlobalSection
+EndGlobal
